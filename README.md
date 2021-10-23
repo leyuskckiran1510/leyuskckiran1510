@@ -31,6 +31,6 @@
 
 
 ```
-<p style='font-color = red'>
+<span class="pl-mdr">
 Hello try
-</p>
+</span>
