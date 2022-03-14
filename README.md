@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leyuskckiran1510&show_icons=true&locale=en&layout=compact" alt="Kiran Raj Dhakal" /></p>
 
-<p>&nbsp;![Leyuskc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuskckiran1510&show_icons=true&theme=merko)</p>
+<p>&nbsp;![Leyuskc's GitHub stats].(https://github-readme-stats.vercel.app/api?username=leyuskckiran1510&show_icons=true&theme=merko)</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leyuskckiran1510&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
