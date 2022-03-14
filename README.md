@@ -32,7 +32,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leyuskckiran1510&show_icons=true&locale=en&layout=compact" alt="Kiran Raj Dhakal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leyuskckiran1510&show_icons=true&locale=en&layout=compact&theme=merko" alt="Kiran Raj Dhakal" /></p>
 
 [![Leyuskc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuskckiran1510&show_icons=true&theme=merko)](https://git.io/streak-stats)
 
