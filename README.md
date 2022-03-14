@@ -11,31 +11,29 @@
 
 *I am a programmer and a coder ,a Physicist and Mathematician.*
 
-*Let's connect [Instagram](https://www.instagram.com/leyuskc_/) ! [Github](https://github.com/leyuskckiran1510).*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/leyuskckiran1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1337mickey" height="30" width="40" /></a>
+<a href="https://twitter.com/@KiranRajDhakal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sushil_phuyal" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100073571388218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1337mickey" height="30" width="40" /></a>
+<a href="https://www.instagram.com/leyuskc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1337mickey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNZW6Cf3yhXxz0s6eHK2njg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="professor mickey" height="30" width="40" /></a>
+</p>
 
 
-## Languages I know
-
-```diff
-+ Python
-@@     Flask                                                       @@
-@@     Django                                                      @@
-@@     bs4 , lxml, selenium , requests, urllib ... for Scraping    @@
-@@     pyautogui, os , system ,subprocess .... for Automation      @@
-@@     Pillow  for image adjustments like resizing , cropping , collage , text in large number of images ..  @@
-@@     Open CV still in progress                                   @@ 
-@@     And numpy , pandas , matplotlib for data analysis           @@
-@@     ML , DL and AI still in learning phase soon will update about it too  @@
-@@    OOP is also my ability but I don't like to use much unless it is necessary @@
-
-+ C
-@@   Just basics I/O ,data types , loops , conditions  @@
--    Pointer is still a confuser                       
-
-+ DOM JS
-@@   All the basic dom handelling                       @@
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 
 
 
-```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leyuskckiran1510&show_icons=true&locale=en&layout=compact" alt="Kiran Raj Dhakal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leyuskckiran1510&show_icons=true&locale=en" alt="Kiran Raj Dhakal" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leyuskckiran1510&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
