@@ -32,8 +32,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leyuskckiran1510&show_icons=true&locale=en&layout=compact&theme=merko" alt="Kiran Raj Dhakal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leyuskckiran1510&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true" alt="Kiran Raj Dhakal" /></p>
 
-[![Leyuskc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuskckiran1510&show_icons=true&theme=merko)](https://git.io/streak-stats)
+[![Leyuskc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuskckiran1510&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leyuskckiran1510&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leyuskckiran1510&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=trueo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
