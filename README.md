@@ -36,4 +36,4 @@
 
 [![Leyuskc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuskckiran1510&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leyuskckiran1510&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=trueo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leyuskckiran1510&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakNum=1E33D9&sideNums=7957D5&ring=D56822&fire=D55B0C&currStreakLabel=7957D5&border=DD272700&stroke=7957D5&sideLabels=7957D5&dates=30DDD080)](https://git.io/streak-stats)
