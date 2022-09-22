@@ -9,15 +9,15 @@
 <p align="left"> <a href="https://kiranrajdhakal.com.np"><img src="https://github-profile-trophy.vercel.app/?username=leyuskckiran1510" alt="Kiran Raj Dhakal" /></a> </p>
 
 
-*I am a programmer and a coder ,a Physicist and Mathematician.*
+*I am a programmer and a coder.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/leyuskckiran1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1337mickey" height="30" width="40" /></a>
-<a href="https://twitter.com/leyuskc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sushil_phuyal" height="30" width="40" /></a>
-<a href="https://fb.com/leyuskc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1337mickey" height="30" width="40" /></a>
-<a href="https://www.instagram.com/leyuskc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1337mickey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCNZW6Cf3yhXxz0s6eHK2njg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="professor mickey" height="30" width="40" /></a>
+<a href="https://codepen.io/leyuskckiran1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="leyuskc" height="30" width="40" /></a>
+<a href="https://twitter.com/leyuskc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leyuskc" height="30" width="40" /></a>
+<a href="https://fb.com/leyuskc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leyuskc" height="30" width="40" /></a>
+<a href="https://www.instagram.com/leyuskc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leyuskc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNZW6Cf3yhXxz0s6eHK2njg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leyuskc" height="30" width="40" /></a>
 </p>
 
 
