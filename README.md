@@ -6,9 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leyuskckiran1510&label=Profile%20views&color=0e75b6&style=flat" alt="Kiran Raj DHakal" /> </p>
 
 
-<p align="left"> <a href="https://kiranrajdhakal.com.np"><img src="https://github-profile-trophy.vercel.app/?username=leyuskckiran1510" alt="Kiran Raj Dhakal" /></a> </p>
+<p align="left"> 
+  <a href="https://kiranrajdhakal.com.np">
+    <img src="https://github-profile-trophy.vercel.app/?username=leyuskckiran1510" alt="Kiran Raj Dhakal" />
+  </a> 
+</p>
 
-
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=leyuskckiran1510" alt="Kiran Raj DHakal" /> </p>
 *I am a programmer and a coder.*
 
 <h3 align="left">Connect with me:</h3>
