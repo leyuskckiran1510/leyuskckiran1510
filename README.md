@@ -11,8 +11,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=leyuskckiran1510" alt="Kiran Raj Dhakal" />
   </a> 
 </p>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=leyuskckiran1510" alt="Kiran Raj DHakal" /> </p>
 *I am a programmer and a coder.*
 
 <h3 align="left">Connect with me:</h3>
