@@ -1,8 +1,8 @@
 # leyuskc
 
 
-<h2><img src="https://raw.githubusercontent.com/leyuskckiran1510/leyuskckiran1510/main/Leyuskc2.png" width="500"> <img src="https://c.tenor.com/UX-QYT2KtycAAAAi/brown-cony-bear.gif" width="250"></h2>
-
+<h1><img src="https://raw.githubusercontent.com/leyuskckiran1510/leyuskckiran1510/main/Leyuskc2.png" width="500">
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leyuskckiran1510&label=Profile%20views&color=0e75b6&style=flat" alt="Kiran Raj DHakal" /> </p>
 
 
