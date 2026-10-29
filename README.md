@@ -27,16 +27,18 @@ Tools:
   unix/bash-tools,
 ```
 [ReadMore](https://kiranrajdhakal.com.np/aboutme/)
+
 ### useful links
-[Document Scanner](https://afnoscanner.kiranrajdhakal.com.np/)
-[Old portfolio](https://me.kiranrajdhakal.com.np)
-[Patreon](https://patreon.kiranrajdhakal.com.np)
-[Ringly notifications app](https://ringly.kiranrajdhakal.com.np)
-[NEPSE Suggester - share investment planner](https://share.kiranrajdhakal.com.np)
-[All my apps](https://apps.kiranrajdhakal.com.np)
-[Build Me - custom tools and automations](https://buildme.kiranrajdhakal.com.np)
-[GuffGaff - Ludo, Teenpatti and Jhandi Burja with friends](https://guffgaff.kiranrajdhakal.com.np)
-[Puchkoow game](https://puchkoow.kiranrajdhakal.com.np)
-[Puchkoow wiki](https://puchkoow.wiki.kiranrajdhakal.com.np)
-[Web scraping and data pipelines](https://scrapers.kiranrajdhakal.com.np)
-[TestDue - backflow test tracking](https://testdue.kiranrajdhakal.com.np)
+
+[Document Scanner](https://afnoscanner.kiranrajdhakal.com.np/) <br>
+[Old portfolio](https://me.kiranrajdhakal.com.np) <br>
+[Patreon](https://patreon.kiranrajdhakal.com.np) <br>
+[Ringly notifications app](https://ringly.kiranrajdhakal.com.np) <br>
+[NEPSE Suggester - share investment planner](https://share.kiranrajdhakal.com.np) <br>
+[All my apps](https://apps.kiranrajdhakal.com.np) <br>
+[Build Me - custom tools and automations](https://buildme.kiranrajdhakal.com.np) <br>
+[GuffGaff - Ludo, Teenpatti and Jhandi Burja with friends](https://guffgaff.kiranrajdhakal.com.np) <br>
+[Puchkoow game](https://puchkoow.kiranrajdhakal.com.np) <br>
+[Puchkoow wiki](https://puchkoow.wiki.kiranrajdhakal.com.np) <br>
+[Web scraping and data pipelines](https://scrapers.kiranrajdhakal.com.np) <br>
+[TestDue - backflow test tracking](https://testdue.kiranrajdhakal.com.np) <br>
